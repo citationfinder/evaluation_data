@@ -6,7 +6,7 @@
 <set_name>
   |
   |- authors.csv
-  |- log.csv
+  |- celery.log
   |- meta_<strategy_name>.csv
   |- <strategy_name>
       |- <author_id>.csv

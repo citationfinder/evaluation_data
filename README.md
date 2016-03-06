@@ -1,6 +1,6 @@
 # SCF Evaluation data
 
-Documentation: [cholarly-citation-finder.readthedocs.org](http://scholarly-citation-finder.readthedocs.org/en/latest/evaluation/)
+Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-citation-finder.readthedocs.org/en/latest/evaluation/)
 
 ### Sets
 

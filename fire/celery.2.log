@@ -1,0 +1,402 @@
+[2016-03-05 15:35:26,202: INFO/MainProcess] Received task: scholarly_citation_finder.api.citation.tasks.evaluation_run[e4c44a10-8a92-4019-a81f-26fa2d6855e0]
+[2016-03-05 15:35:26,909: INFO/Worker-2] 1827493828 author: set 12 publications
+[2016-03-05 15:35:27,637: INFO/Worker-2] found 19 author in the search set
+[2016-03-05 15:35:27,637: INFO/Worker-2] authors: 19
+[2016-03-05 15:36:50,165: INFO/Worker-2] 1827493828: finished strategy "author"
+[2016-03-05 15:36:50,281: INFO/Worker-2] found 7 journals in search set
+[2016-03-05 15:36:58,378: INFO/Worker-2] 1827493828: finished strategy "journal"
+[2016-03-05 15:36:58,496: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 15:36:58,496: INFO/Worker-2] 1827493828: finished strategy "conference"
+[2016-03-05 15:37:00,957: INFO/Worker-2] 136702084 author: set 234 publications
+[2016-03-05 15:37:24,875: INFO/Worker-2] found 789 author in the search set
+[2016-03-05 15:37:24,875: INFO/Worker-2] authors: 789
+[2016-03-05 16:29:16,606: INFO/Worker-2] 136702084: finished strategy "author"
+[2016-03-05 16:29:16,751: INFO/Worker-2] found 50 journals in search set
+[2016-03-05 16:30:52,622: INFO/Worker-2] 136702084: finished strategy "journal"
+[2016-03-05 16:30:52,723: INFO/Worker-2] found 1 conferences in search set
+[2016-03-05 16:30:52,805: INFO/Worker-2] 136702084: finished strategy "conference"
+[2016-03-05 16:30:53,277: INFO/Worker-2] 1788919128 author: set 29 publications
+[2016-03-05 16:30:54,605: INFO/Worker-2] found 34 author in the search set
+[2016-03-05 16:30:54,605: INFO/Worker-2] authors: 34
+[2016-03-05 16:31:32,941: INFO/Worker-2] 1788919128: finished strategy "author"
+[2016-03-05 16:31:32,971: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 16:31:32,971: INFO/Worker-2] 1788919128: finished strategy "journal"
+[2016-03-05 16:31:32,973: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:31:32,973: INFO/Worker-2] 1788919128: finished strategy "conference"
+[2016-03-05 16:31:33,948: INFO/Worker-2] 1857642308 author: set 48 publications
+[2016-03-05 16:31:39,904: INFO/Worker-2] found 170 author in the search set
+[2016-03-05 16:31:39,905: INFO/Worker-2] authors: 170
+[2016-03-05 16:48:39,054: INFO/Worker-2] 1857642308: finished strategy "author"
+[2016-03-05 16:48:39,092: INFO/Worker-2] found 25 journals in search set
+[2016-03-05 16:48:54,003: INFO/Worker-2] 1857642308: finished strategy "journal"
+[2016-03-05 16:48:54,033: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:48:54,033: INFO/Worker-2] 1857642308: finished strategy "conference"
+[2016-03-05 16:48:54,543: INFO/Worker-2] 723861092 author: set 30 publications
+[2016-03-05 16:48:55,794: INFO/Worker-2] found 28 author in the search set
+[2016-03-05 16:48:55,794: INFO/Worker-2] authors: 28
+[2016-03-05 16:49:58,096: INFO/Worker-2] 723861092: finished strategy "author"
+[2016-03-05 16:49:58,126: INFO/Worker-2] found 12 journals in search set
+[2016-03-05 16:50:18,445: INFO/Worker-2] 723861092: finished strategy "journal"
+[2016-03-05 16:50:18,458: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:50:18,459: INFO/Worker-2] 723861092: finished strategy "conference"
+[2016-03-05 16:50:19,094: INFO/Worker-2] 490083078 author: set 55 publications
+[2016-03-05 16:50:23,561: INFO/Worker-2] found 116 author in the search set
+[2016-03-05 16:50:23,561: INFO/Worker-2] authors: 116
+[2016-03-05 16:55:01,260: INFO/Worker-2] 490083078: finished strategy "author"
+[2016-03-05 16:55:01,341: INFO/Worker-2] found 10 journals in search set
+[2016-03-05 16:55:30,489: INFO/Worker-2] 490083078: finished strategy "journal"
+[2016-03-05 16:55:30,502: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:55:30,502: INFO/Worker-2] 490083078: finished strategy "conference"
+[2016-03-05 16:55:31,175: INFO/Worker-2] 1593916528 author: set 35 publications
+[2016-03-05 16:55:34,776: INFO/Worker-2] found 95 author in the search set
+[2016-03-05 16:55:34,776: INFO/Worker-2] authors: 95
+[2016-03-05 16:57:44,734: INFO/Worker-2] 1593916528: finished strategy "author"
+[2016-03-05 16:57:44,762: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 16:57:46,784: INFO/Worker-2] 1593916528: finished strategy "journal"
+[2016-03-05 16:57:46,788: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:57:46,788: INFO/Worker-2] 1593916528: finished strategy "conference"
+[2016-03-05 16:57:47,159: INFO/Worker-2] 1885602469 author: set 19 publications
+[2016-03-05 16:57:48,185: INFO/Worker-2] found 26 author in the search set
+[2016-03-05 16:57:48,185: INFO/Worker-2] authors: 26
+[2016-03-05 16:58:25,828: INFO/Worker-2] 1885602469: finished strategy "author"
+[2016-03-05 16:58:25,847: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 16:58:26,258: INFO/Worker-2] 1885602469: finished strategy "journal"
+[2016-03-05 16:58:26,260: INFO/Worker-2] found 4 conferences in search set
+[2016-03-05 16:58:26,439: INFO/Worker-2] 1885602469: finished strategy "conference"
+[2016-03-05 16:58:27,478: INFO/Worker-2] 1860570626 author: set 54 publications
+[2016-03-05 16:58:31,386: INFO/Worker-2] found 104 author in the search set
+[2016-03-05 16:58:31,386: INFO/Worker-2] authors: 104
+[2016-03-05 16:59:00,727: INFO/Worker-2] 1860570626: finished strategy "author"
+[2016-03-05 16:59:00,741: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 16:59:00,741: INFO/Worker-2] 1860570626: finished strategy "journal"
+[2016-03-05 16:59:00,743: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 16:59:00,743: INFO/Worker-2] 1860570626: finished strategy "conference"
+[2016-03-05 16:59:01,883: INFO/Worker-2] 293093246 author: set 64 publications
+[2016-03-05 16:59:06,308: INFO/Worker-2] found 123 author in the search set
+[2016-03-05 16:59:06,308: INFO/Worker-2] authors: 123
+[2016-03-05 17:06:23,412: INFO/Worker-2] 293093246: finished strategy "author"
+[2016-03-05 17:06:23,434: INFO/Worker-2] found 17 journals in search set
+[2016-03-05 17:06:38,208: INFO/Worker-2] 293093246: finished strategy "journal"
+[2016-03-05 17:06:38,211: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:06:38,211: INFO/Worker-2] 293093246: finished strategy "conference"
+[2016-03-05 17:06:43,001: INFO/Worker-2] 278033781 author: set 300 publications
+[2016-03-05 17:07:08,893: INFO/Worker-2] found 703 author in the search set
+[2016-03-05 17:07:08,893: INFO/Worker-2] authors: 703
+[2016-03-05 17:32:19,517: INFO/Worker-2] 278033781: finished strategy "author"
+[2016-03-05 17:32:19,581: INFO/Worker-2] found 85 journals in search set
+[2016-03-05 17:33:35,319: INFO/Worker-2] 278033781: finished strategy "journal"
+[2016-03-05 17:33:35,327: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:33:35,327: INFO/Worker-2] 278033781: finished strategy "conference"
+[2016-03-05 17:33:35,636: INFO/Worker-2] 50559857 author: set 22 publications
+[2016-03-05 17:33:36,285: INFO/Worker-2] found 14 author in the search set
+[2016-03-05 17:33:36,285: INFO/Worker-2] authors: 14
+[2016-03-05 17:33:44,956: INFO/Worker-2] 50559857: finished strategy "author"
+[2016-03-05 17:33:44,976: INFO/Worker-2] found 9 journals in search set
+[2016-03-05 17:33:47,832: INFO/Worker-2] 50559857: finished strategy "journal"
+[2016-03-05 17:33:47,834: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:33:47,834: INFO/Worker-2] 50559857: finished strategy "conference"
+[2016-03-05 17:33:49,589: INFO/Worker-2] 1842981905 author: set 87 publications
+[2016-03-05 17:33:53,510: INFO/Worker-2] found 100 author in the search set
+[2016-03-05 17:33:53,510: INFO/Worker-2] authors: 100
+[2016-03-05 17:38:06,075: INFO/Worker-2] 1842981905: finished strategy "author"
+[2016-03-05 17:38:06,103: INFO/Worker-2] found 34 journals in search set
+[2016-03-05 17:38:34,011: INFO/Worker-2] 1842981905: finished strategy "journal"
+[2016-03-05 17:38:34,018: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:38:34,018: INFO/Worker-2] 1842981905: finished strategy "conference"
+[2016-03-05 17:38:34,734: INFO/Worker-2] 1878062382 author: set 42 publications
+[2016-03-05 17:38:36,973: INFO/Worker-2] found 60 author in the search set
+[2016-03-05 17:38:36,973: INFO/Worker-2] authors: 60
+[2016-03-05 17:40:33,781: INFO/Worker-2] 1878062382: finished strategy "author"
+[2016-03-05 17:40:33,799: INFO/Worker-2] found 18 journals in search set
+[2016-03-05 17:40:56,519: INFO/Worker-2] 1878062382: finished strategy "journal"
+[2016-03-05 17:40:56,538: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:40:56,538: INFO/Worker-2] 1878062382: finished strategy "conference"
+[2016-03-05 17:40:56,904: INFO/Worker-2] 1861583621 author: set 19 publications
+[2016-03-05 17:40:59,662: INFO/Worker-2] found 90 author in the search set
+[2016-03-05 17:40:59,662: INFO/Worker-2] authors: 90
+[2016-03-05 17:47:41,518: INFO/Worker-2] 1861583621: finished strategy "author"
+[2016-03-05 17:47:41,560: INFO/Worker-2] found 7 journals in search set
+[2016-03-05 17:48:00,221: INFO/Worker-2] 1861583621: finished strategy "journal"
+[2016-03-05 17:48:00,224: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:48:00,224: INFO/Worker-2] 1861583621: finished strategy "conference"
+[2016-03-05 17:48:00,496: INFO/Worker-2] 1417008787 author: set 14 publications
+[2016-03-05 17:48:01,335: INFO/Worker-2] found 26 author in the search set
+[2016-03-05 17:48:01,335: INFO/Worker-2] authors: 26
+[2016-03-05 17:48:35,283: INFO/Worker-2] 1417008787: finished strategy "author"
+[2016-03-05 17:48:35,334: INFO/Worker-2] found 4 journals in search set
+[2016-03-05 17:48:37,972: INFO/Worker-2] 1417008787: finished strategy "journal"
+[2016-03-05 17:48:37,974: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:48:37,975: INFO/Worker-2] 1417008787: finished strategy "conference"
+[2016-03-05 17:48:39,134: INFO/Worker-2] 1884248971 author: set 59 publications
+[2016-03-05 17:48:41,541: INFO/Worker-2] found 60 author in the search set
+[2016-03-05 17:48:41,541: INFO/Worker-2] authors: 60
+[2016-03-05 17:50:53,239: INFO/Worker-2] 1884248971: finished strategy "author"
+[2016-03-05 17:50:53,285: INFO/Worker-2] found 7 journals in search set
+[2016-03-05 17:51:05,548: INFO/Worker-2] 1884248971: finished strategy "journal"
+[2016-03-05 17:51:05,552: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 17:51:05,552: INFO/Worker-2] 1884248971: finished strategy "conference"
+[2016-03-05 17:51:05,932: INFO/Worker-2] 1753278152 author: set 20 publications
+[2016-03-05 17:52:36,400: INFO/Worker-2] found 3017 author in the search set
+[2016-03-05 17:52:36,400: INFO/Worker-2] authors: 3017
+[2016-03-05 20:11:14,925: INFO/Worker-2] 1753278152: finished strategy "author"
+[2016-03-05 20:11:15,237: INFO/Worker-2] found 14 journals in search set
+[2016-03-05 20:11:21,230: INFO/Worker-2] 1753278152: finished strategy "journal"
+[2016-03-05 20:11:21,324: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:11:21,324: INFO/Worker-2] 1753278152: finished strategy "conference"
+[2016-03-05 20:11:21,623: INFO/Worker-2] 1805159832 author: set 11 publications
+[2016-03-05 20:11:23,664: INFO/Worker-2] found 60 author in the search set
+[2016-03-05 20:11:23,665: INFO/Worker-2] authors: 60
+[2016-03-05 20:15:30,359: INFO/Worker-2] 1805159832: finished strategy "author"
+[2016-03-05 20:15:30,380: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 20:15:32,470: INFO/Worker-2] 1805159832: finished strategy "journal"
+[2016-03-05 20:15:32,473: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:15:32,473: INFO/Worker-2] 1805159832: finished strategy "conference"
+[2016-03-05 20:15:32,814: INFO/Worker-2] 1841366217 author: set 17 publications
+[2016-03-05 20:15:33,368: INFO/Worker-2] found 10 author in the search set
+[2016-03-05 20:15:33,368: INFO/Worker-2] authors: 10
+[2016-03-05 20:15:45,492: INFO/Worker-2] 1841366217: finished strategy "author"
+[2016-03-05 20:15:45,520: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 20:15:46,643: INFO/Worker-2] 1841366217: finished strategy "journal"
+[2016-03-05 20:15:46,646: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:15:46,646: INFO/Worker-2] 1841366217: finished strategy "conference"
+[2016-03-05 20:15:47,918: INFO/Worker-2] 1843042359 author: set 71 publications
+[2016-03-05 20:15:55,772: INFO/Worker-2] found 215 author in the search set
+[2016-03-05 20:15:55,772: INFO/Worker-2] authors: 215
+[2016-03-05 20:28:31,732: INFO/Worker-2] 1843042359: finished strategy "author"
+[2016-03-05 20:28:31,750: INFO/Worker-2] found 17 journals in search set
+[2016-03-05 20:28:58,524: INFO/Worker-2] 1843042359: finished strategy "journal"
+[2016-03-05 20:28:58,528: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:28:58,528: INFO/Worker-2] 1843042359: finished strategy "conference"
+[2016-03-05 20:28:58,783: INFO/Worker-2] 1271484857 author: set 14 publications
+[2016-03-05 20:29:00,421: INFO/Worker-2] found 48 author in the search set
+[2016-03-05 20:29:00,422: INFO/Worker-2] authors: 48
+[2016-03-05 20:30:52,361: INFO/Worker-2] 1271484857: finished strategy "author"
+[2016-03-05 20:30:52,388: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 20:31:00,172: INFO/Worker-2] 1271484857: finished strategy "journal"
+[2016-03-05 20:31:00,174: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:31:00,174: INFO/Worker-2] 1271484857: finished strategy "conference"
+[2016-03-05 20:31:00,524: INFO/Worker-2] 1836422080 author: set 19 publications
+[2016-03-05 20:31:02,051: INFO/Worker-2] found 48 author in the search set
+[2016-03-05 20:31:02,051: INFO/Worker-2] authors: 48
+[2016-03-05 20:32:19,853: INFO/Worker-2] 1836422080: finished strategy "author"
+[2016-03-05 20:32:19,907: INFO/Worker-2] found 6 journals in search set
+[2016-03-05 20:32:33,569: INFO/Worker-2] 1836422080: finished strategy "journal"
+[2016-03-05 20:32:33,580: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 20:32:33,580: INFO/Worker-2] 1836422080: finished strategy "conference"
+[2016-03-05 20:32:33,913: INFO/Worker-2] 252520937 author: set 20 publications
+[2016-03-05 20:32:36,120: INFO/Worker-2] found 77 author in the search set
+[2016-03-05 20:32:36,120: INFO/Worker-2] authors: 77
+[2016-03-05 21:57:13,114: INFO/Worker-2] 252520937: finished strategy "author"
+[2016-03-05 21:57:13,274: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 21:57:16,812: INFO/Worker-2] 252520937: finished strategy "journal"
+[2016-03-05 21:57:16,918: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 21:57:16,918: INFO/Worker-2] 252520937: finished strategy "conference"
+[2016-03-05 21:57:17,466: INFO/Worker-2] 1833466610 author: set 35 publications
+[2016-03-05 21:57:20,285: INFO/Worker-2] found 82 author in the search set
+[2016-03-05 21:57:20,285: INFO/Worker-2] authors: 82
+[2016-03-05 22:01:05,305: INFO/Worker-2] 1833466610: finished strategy "author"
+[2016-03-05 22:01:05,335: INFO/Worker-2] found 15 journals in search set
+[2016-03-05 22:01:09,860: INFO/Worker-2] 1833466610: finished strategy "journal"
+[2016-03-05 22:01:09,862: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:01:09,863: INFO/Worker-2] 1833466610: finished strategy "conference"
+[2016-03-05 22:01:10,240: INFO/Worker-2] 1590775848 author: set 23 publications
+[2016-03-05 22:01:11,468: INFO/Worker-2] found 30 author in the search set
+[2016-03-05 22:01:11,468: INFO/Worker-2] authors: 30
+[2016-03-05 22:03:32,477: INFO/Worker-2] 1590775848: finished strategy "author"
+[2016-03-05 22:03:32,527: INFO/Worker-2] found 7 journals in search set
+[2016-03-05 22:03:45,268: INFO/Worker-2] 1590775848: finished strategy "journal"
+[2016-03-05 22:03:45,280: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:03:45,280: INFO/Worker-2] 1590775848: finished strategy "conference"
+[2016-03-05 22:03:45,495: INFO/Worker-2] 715186309 author: set 13 publications
+[2016-03-05 22:03:46,258: INFO/Worker-2] found 23 author in the search set
+[2016-03-05 22:03:46,258: INFO/Worker-2] authors: 23
+[2016-03-05 22:04:30,486: INFO/Worker-2] 715186309: finished strategy "author"
+[2016-03-05 22:04:30,509: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 22:04:32,651: INFO/Worker-2] 715186309: finished strategy "journal"
+[2016-03-05 22:04:32,670: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:04:32,670: INFO/Worker-2] 715186309: finished strategy "conference"
+[2016-03-05 22:04:32,883: INFO/Worker-2] 357129921 author: set 11 publications
+[2016-03-05 22:04:33,070: INFO/Worker-2] found 2 author in the search set
+[2016-03-05 22:04:33,070: INFO/Worker-2] authors: 2
+[2016-03-05 22:04:34,293: INFO/Worker-2] 357129921: finished strategy "author"
+[2016-03-05 22:04:34,327: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 22:04:35,337: INFO/Worker-2] 357129921: finished strategy "journal"
+[2016-03-05 22:04:35,339: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:04:35,339: INFO/Worker-2] 357129921: finished strategy "conference"
+[2016-03-05 22:04:35,703: INFO/Worker-2] 327283673 author: set 19 publications
+[2016-03-05 22:04:37,000: INFO/Worker-2] found 35 author in the search set
+[2016-03-05 22:04:37,000: INFO/Worker-2] authors: 35
+[2016-03-05 22:04:39,674: INFO/Worker-2] 327283673: finished strategy "author"
+[2016-03-05 22:04:39,698: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 22:04:39,698: INFO/Worker-2] 327283673: finished strategy "journal"
+[2016-03-05 22:04:39,699: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:04:39,700: INFO/Worker-2] 327283673: finished strategy "conference"
+[2016-03-05 22:04:39,977: INFO/Worker-2] 1408143206 author: set 17 publications
+[2016-03-05 22:04:41,844: INFO/Worker-2] found 50 author in the search set
+[2016-03-05 22:04:41,844: INFO/Worker-2] authors: 50
+[2016-03-05 22:05:24,682: INFO/Worker-2] 1408143206: finished strategy "author"
+[2016-03-05 22:05:24,706: INFO/Worker-2] found 9 journals in search set
+[2016-03-05 22:05:30,846: INFO/Worker-2] 1408143206: finished strategy "journal"
+[2016-03-05 22:05:30,848: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:05:30,848: INFO/Worker-2] 1408143206: finished strategy "conference"
+[2016-03-05 22:05:31,297: INFO/Worker-2] 695495226 author: set 23 publications
+[2016-03-05 22:05:32,726: INFO/Worker-2] found 33 author in the search set
+[2016-03-05 22:05:32,726: INFO/Worker-2] authors: 33
+[2016-03-05 22:06:31,280: INFO/Worker-2] 695495226: finished strategy "author"
+[2016-03-05 22:06:31,302: INFO/Worker-2] found 7 journals in search set
+[2016-03-05 22:06:33,695: INFO/Worker-2] 695495226: finished strategy "journal"
+[2016-03-05 22:06:33,697: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:06:33,697: INFO/Worker-2] 695495226: finished strategy "conference"
+[2016-03-05 22:06:34,057: INFO/Worker-2] 692137639 author: set 21 publications
+[2016-03-05 22:06:35,147: INFO/Worker-2] found 24 author in the search set
+[2016-03-05 22:06:35,147: INFO/Worker-2] authors: 24
+[2016-03-05 22:08:23,370: INFO/Worker-2] 692137639: finished strategy "author"
+[2016-03-05 22:08:23,394: INFO/Worker-2] found 8 journals in search set
+[2016-03-05 22:08:42,117: INFO/Worker-2] 692137639: finished strategy "journal"
+[2016-03-05 22:08:42,127: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:08:42,127: INFO/Worker-2] 692137639: finished strategy "conference"
+[2016-03-05 22:08:42,491: INFO/Worker-2] 576222461 author: set 23 publications
+[2016-03-05 22:08:43,093: INFO/Worker-2] found 10 author in the search set
+[2016-03-05 22:08:43,093: INFO/Worker-2] authors: 10
+[2016-03-05 22:09:23,573: INFO/Worker-2] 576222461: finished strategy "author"
+[2016-03-05 22:09:23,599: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 22:09:37,798: INFO/Worker-2] 576222461: finished strategy "journal"
+[2016-03-05 22:09:37,801: INFO/Worker-2] found 1 conferences in search set
+[2016-03-05 22:09:37,909: INFO/Worker-2] 576222461: finished strategy "conference"
+[2016-03-05 22:09:38,165: INFO/Worker-2] 1824856986 author: set 12 publications
+[2016-03-05 22:09:39,463: INFO/Worker-2] found 33 author in the search set
+[2016-03-05 22:09:39,464: INFO/Worker-2] authors: 33
+[2016-03-05 22:10:37,074: INFO/Worker-2] 1824856986: finished strategy "author"
+[2016-03-05 22:10:37,099: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 22:10:38,693: INFO/Worker-2] 1824856986: finished strategy "journal"
+[2016-03-05 22:10:38,712: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:10:38,712: INFO/Worker-2] 1824856986: finished strategy "conference"
+[2016-03-05 22:10:38,889: INFO/Worker-2] 332675965 author: set 10 publications
+[2016-03-05 22:10:39,327: INFO/Worker-2] found 12 author in the search set
+[2016-03-05 22:10:39,327: INFO/Worker-2] authors: 12
+[2016-03-05 22:10:39,812: INFO/Worker-2] 332675965: finished strategy "author"
+[2016-03-05 22:10:39,827: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 22:10:39,827: INFO/Worker-2] 332675965: finished strategy "journal"
+[2016-03-05 22:10:39,829: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:10:39,829: INFO/Worker-2] 332675965: finished strategy "conference"
+[2016-03-05 22:10:41,208: INFO/Worker-2] 975528716 author: set 75 publications
+[2016-03-05 22:10:47,326: INFO/Worker-2] found 172 author in the search set
+[2016-03-05 22:10:47,326: INFO/Worker-2] authors: 172
+[2016-03-05 22:18:45,816: INFO/Worker-2] 975528716: finished strategy "author"
+[2016-03-05 22:18:45,841: INFO/Worker-2] found 43 journals in search set
+[2016-03-05 22:19:02,392: INFO/Worker-2] 975528716: finished strategy "journal"
+[2016-03-05 22:19:02,395: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:19:02,395: INFO/Worker-2] 975528716: finished strategy "conference"
+[2016-03-05 22:19:02,802: INFO/Worker-2] 1754460160 author: set 16 publications
+[2016-03-05 22:19:03,897: INFO/Worker-2] found 28 author in the search set
+[2016-03-05 22:19:03,897: INFO/Worker-2] authors: 28
+[2016-03-05 22:19:28,097: INFO/Worker-2] 1754460160: finished strategy "author"
+[2016-03-05 22:19:28,124: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 22:19:29,877: INFO/Worker-2] 1754460160: finished strategy "journal"
+[2016-03-05 22:19:29,879: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:19:29,880: INFO/Worker-2] 1754460160: finished strategy "conference"
+[2016-03-05 22:19:30,278: INFO/Worker-2] 1887606563 author: set 18 publications
+[2016-03-05 22:19:34,071: INFO/Worker-2] found 131 author in the search set
+[2016-03-05 22:19:34,071: INFO/Worker-2] authors: 131
+[2016-03-05 22:27:26,218: INFO/Worker-2] 1887606563: finished strategy "author"
+[2016-03-05 22:27:26,243: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 22:27:34,433: INFO/Worker-2] 1887606563: finished strategy "journal"
+[2016-03-05 22:27:34,438: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:27:34,438: INFO/Worker-2] 1887606563: finished strategy "conference"
+[2016-03-05 22:27:34,701: INFO/Worker-2] 1825053086 author: set 11 publications
+[2016-03-05 22:27:48,020: INFO/Worker-2] found 417 author in the search set
+[2016-03-05 22:27:48,021: INFO/Worker-2] authors: 417
+[2016-03-05 22:42:37,301: INFO/Worker-2] 1825053086: finished strategy "author"
+[2016-03-05 22:42:37,325: INFO/Worker-2] found 9 journals in search set
+[2016-03-05 22:42:52,685: INFO/Worker-2] 1825053086: finished strategy "journal"
+[2016-03-05 22:42:52,687: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:42:52,688: INFO/Worker-2] 1825053086: finished strategy "conference"
+[2016-03-05 22:42:52,897: INFO/Worker-2] 418903730 author: set 10 publications
+[2016-03-05 22:42:53,831: INFO/Worker-2] found 23 author in the search set
+[2016-03-05 22:42:53,832: INFO/Worker-2] authors: 23
+[2016-03-05 22:42:57,250: INFO/Worker-2] 418903730: finished strategy "author"
+[2016-03-05 22:42:57,269: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 22:42:57,269: INFO/Worker-2] 418903730: finished strategy "journal"
+[2016-03-05 22:42:57,271: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:42:57,271: INFO/Worker-2] 418903730: finished strategy "conference"
+[2016-03-05 22:42:57,800: INFO/Worker-2] 1724373719 author: set 30 publications
+[2016-03-05 22:42:58,413: INFO/Worker-2] found 10 author in the search set
+[2016-03-05 22:42:58,413: INFO/Worker-2] authors: 10
+[2016-03-05 22:43:02,459: INFO/Worker-2] 1724373719: finished strategy "author"
+[2016-03-05 22:43:02,473: INFO/Worker-2] found 1 journals in search set
+[2016-03-05 22:43:02,865: INFO/Worker-2] 1724373719: finished strategy "journal"
+[2016-03-05 22:43:02,868: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:43:02,868: INFO/Worker-2] 1724373719: finished strategy "conference"
+[2016-03-05 22:43:03,134: INFO/Worker-2] 1436172473 author: set 12 publications
+[2016-03-05 22:43:04,272: INFO/Worker-2] found 31 author in the search set
+[2016-03-05 22:43:04,272: INFO/Worker-2] authors: 31
+[2016-03-05 22:46:15,124: INFO/Worker-2] 1436172473: finished strategy "author"
+[2016-03-05 22:46:15,143: INFO/Worker-2] found 8 journals in search set
+[2016-03-05 22:46:17,266: INFO/Worker-2] 1436172473: finished strategy "journal"
+[2016-03-05 22:46:17,268: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:46:17,268: INFO/Worker-2] 1436172473: finished strategy "conference"
+[2016-03-05 22:46:17,916: INFO/Worker-2] 1797903522 author: set 38 publications
+[2016-03-05 22:46:21,118: INFO/Worker-2] found 78 author in the search set
+[2016-03-05 22:46:21,118: INFO/Worker-2] authors: 78
+[2016-03-05 22:50:19,695: INFO/Worker-2] 1797903522: finished strategy "author"
+[2016-03-05 22:50:19,722: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 22:50:36,167: INFO/Worker-2] 1797903522: finished strategy "journal"
+[2016-03-05 22:50:36,171: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:50:36,171: INFO/Worker-2] 1797903522: finished strategy "conference"
+[2016-03-05 22:50:36,456: INFO/Worker-2] 1863784261 author: set 14 publications
+[2016-03-05 22:50:37,106: INFO/Worker-2] found 22 author in the search set
+[2016-03-05 22:50:37,106: INFO/Worker-2] authors: 22
+[2016-03-05 22:50:57,478: INFO/Worker-2] 1863784261: finished strategy "author"
+[2016-03-05 22:50:57,505: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 22:50:58,069: INFO/Worker-2] 1863784261: finished strategy "journal"
+[2016-03-05 22:50:58,072: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:50:58,072: INFO/Worker-2] 1863784261: finished strategy "conference"
+[2016-03-05 22:50:58,386: INFO/Worker-2] 1876821740 author: set 15 publications
+[2016-03-05 22:51:00,440: INFO/Worker-2] found 63 author in the search set
+[2016-03-05 22:51:00,440: INFO/Worker-2] authors: 63
+[2016-03-05 22:58:31,679: INFO/Worker-2] 1876821740: finished strategy "author"
+[2016-03-05 22:58:31,703: INFO/Worker-2] found 9 journals in search set
+[2016-03-05 22:58:38,832: INFO/Worker-2] 1876821740: finished strategy "journal"
+[2016-03-05 22:58:38,838: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 22:58:38,838: INFO/Worker-2] 1876821740: finished strategy "conference"
+[2016-03-05 22:58:39,933: INFO/Worker-2] 1260848431 author: set 62 publications
+[2016-03-05 22:58:46,130: INFO/Worker-2] found 169 author in the search set
+[2016-03-05 22:58:46,131: INFO/Worker-2] authors: 169
+[2016-03-05 23:12:58,266: INFO/Worker-2] 1260848431: finished strategy "author"
+[2016-03-05 23:12:58,290: INFO/Worker-2] found 33 journals in search set
+[2016-03-05 23:13:19,455: INFO/Worker-2] 1260848431: finished strategy "journal"
+[2016-03-05 23:13:19,460: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 23:13:19,460: INFO/Worker-2] 1260848431: finished strategy "conference"
+[2016-03-05 23:13:19,739: INFO/Worker-2] 1252247341 author: set 13 publications
+[2016-03-05 23:13:20,302: INFO/Worker-2] found 14 author in the search set
+[2016-03-05 23:13:20,302: INFO/Worker-2] authors: 14
+[2016-03-05 23:13:52,831: INFO/Worker-2] 1252247341: finished strategy "author"
+[2016-03-05 23:13:52,856: INFO/Worker-2] found 8 journals in search set
+[2016-03-05 23:13:56,368: INFO/Worker-2] 1252247341: finished strategy "journal"
+[2016-03-05 23:13:56,370: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 23:13:56,370: INFO/Worker-2] 1252247341: finished strategy "conference"
+[2016-03-05 23:13:56,620: INFO/Worker-2] 1569084648 author: set 14 publications
+[2016-03-05 23:13:57,702: INFO/Worker-2] found 32 author in the search set
+[2016-03-05 23:13:57,702: INFO/Worker-2] authors: 32
+[2016-03-05 23:14:01,857: INFO/Worker-2] 1569084648: finished strategy "author"
+[2016-03-05 23:14:01,923: INFO/Worker-2] found 5 journals in search set
+[2016-03-05 23:14:03,088: INFO/Worker-2] 1569084648: finished strategy "journal"
+[2016-03-05 23:14:03,090: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 23:14:03,090: INFO/Worker-2] 1569084648: finished strategy "conference"
+[2016-03-05 23:14:03,354: INFO/Worker-2] 1477640514 author: set 12 publications
+[2016-03-05 23:14:05,146: INFO/Worker-2] found 60 author in the search set
+[2016-03-05 23:14:05,146: INFO/Worker-2] authors: 60
+[2016-03-05 23:14:28,131: INFO/Worker-2] 1477640514: finished strategy "author"
+[2016-03-05 23:14:28,151: INFO/Worker-2] found 0 journals in search set
+[2016-03-05 23:14:28,151: INFO/Worker-2] 1477640514: finished strategy "journal"
+[2016-03-05 23:14:28,153: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 23:14:28,153: INFO/Worker-2] 1477640514: finished strategy "conference"
+[2016-03-05 23:14:28,377: INFO/Worker-2] 1875449004 author: set 10 publications
+[2016-03-05 23:14:29,453: INFO/Worker-2] found 32 author in the search set
+[2016-03-05 23:14:29,453: INFO/Worker-2] authors: 32
+[2016-03-05 23:15:10,322: INFO/Worker-2] 1875449004: finished strategy "author"
+[2016-03-05 23:15:10,343: INFO/Worker-2] found 3 journals in search set
+[2016-03-05 23:15:11,859: INFO/Worker-2] 1875449004: finished strategy "journal"
+[2016-03-05 23:15:11,862: INFO/Worker-2] found 0 conferences in search set
+[2016-03-05 23:15:11,862: INFO/Worker-2] 1875449004: finished strategy "conference"
+[2016-03-05 23:15:12,725: INFO/MainProcess] Task scholarly_citation_finder.api.citation.tasks.evaluation_run[e4c44a10-8a92-4019-a81f-26fa2d6855e0] succeeded in 27586.3932948s: True

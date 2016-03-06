@@ -1,0 +1,24 @@
+#!/bin/bash
+BASEDIR=`dirname $0`
+
+function get_dir(){
+    if [ "$#" -lt 1 ]
+    then
+        echo "Usage get_dir <dir-name>"
+        echo ""
+        exit 1
+    else
+        local dir="$1"
+    fi
+    scp -r ${USER}@${HOST}:"/webapps/scholarly_citation_finder/scholarly_citation_finder/downloads/evaluation/${dir}/" .
+}
+
+if [ "$#" -lt 1 ]
+then
+	echo "Usage $0 <evaluation_name>"
+	echo ""
+	exit 1
+fi
+
+source ssh_config.cfg
+get_dir "$1"

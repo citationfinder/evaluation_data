@@ -1,16 +1,6 @@
+# SCF Evaluation data
 
-
-### Structure evaluation set
-
-```
-<set_name>
-  |
-  |- authors.csv
-  |- celery.log
-  |- meta_<strategy_name>.csv
-  |- <strategy_name>
-      |- <author_id>.csv
-```
+Documentation: [cholarly-citation-finder.readthedocs.org](http://scholarly-citation-finder.readthedocs.org/en/latest/evaluation/)
 
 ### Sets
 

@@ -6,7 +6,7 @@ Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-cita
 
 #### `fire`
 
-#1
+1#
 ```
 [
 	[AuthorStrategy(ordered=True)],
@@ -19,7 +19,7 @@ Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-cita
 ]
 ```
 
-#2
+2#
 ```
 [
     [AuthorStrategy()],
@@ -27,3 +27,7 @@ Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-cita
     [ConferenceStrategy()]
 ]
 ```
+
+#### `firen`
+
+like `fire`

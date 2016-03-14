@@ -27,3 +27,10 @@ Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-cita
     [ConferenceStrategy()]
 ]
 ```
+
+(3#)
+```
+[
+	[AuthorStrategy(ordered=True, recursive=True)]
+]
+```

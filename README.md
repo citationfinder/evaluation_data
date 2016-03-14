@@ -27,7 +27,3 @@ Documentation: [scholarly-citation-finder.readthedocs.org](http://scholarly-cita
     [ConferenceStrategy()]
 ]
 ```
-
-#### `firen`
-
-like `fire`
